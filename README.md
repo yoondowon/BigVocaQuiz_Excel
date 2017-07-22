@@ -13,24 +13,24 @@ For more information on the blog
 
 --------
 ### Subjective Quiz
-<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Sub.gif" height="500">
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Sub.gif" height="250">
 
 --------
 ### Weak Point Quiz
-<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Weak.gif" height="200">
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Weak.gif" height="500">
 
 --------
 ### Custom Ribbon Menu
 #### Quick Start
-![BigVoca_Custom_Quick]
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Quick.gif" height="500">
 
 --------
 #### Quiz Scope Setting
-![BigVoca_Custom_Scope]
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Scope.gif" height="500">
 
 --------
 #### Word List Export/Delete
-![BigVoca_Custom_Export]
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Export.gif" height="500">
 
 [BigVoca_Custom_Quick]: BigVoca_Custom_Quick.gif
 [BigVoca_Custom_Scope]: BigVoca_Custom_Scope.gif
