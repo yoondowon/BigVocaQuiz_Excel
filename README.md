@@ -9,7 +9,7 @@ For more information on the blog
 
 ## Example Application
 ### Basic Quiz
-![](BigVoca_Basic.gif | width=100)
+![Basic](https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Basic.gif | width=100)
 
 --------
 ### Subjective Quiz
