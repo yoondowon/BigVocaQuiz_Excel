@@ -9,15 +9,15 @@ For more information on the blog
 
 ## Example Application
 ### Basic Quiz
-<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Basic.gif" width="48">
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Basic.gif" height="500">
 
 --------
 ### Subjective Quiz
-![BigVoca_Sub]
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Sub.gif" height="500">
 
 --------
 ### Weak Point Quiz
-![BigVoca_Weak]
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Weak.gif" height="200">
 
 --------
 ### Custom Ribbon Menu
@@ -32,9 +32,6 @@ For more information on the blog
 #### Word List Export/Delete
 ![BigVoca_Custom_Export]
 
-[BigVoca_Basic]: BigVoca_Basic.gif
-[BigVoca_Sub]: BigVoca_Sub.gif=100X20
-[BigVoca_Weak]: BigVoca_Weak.gif
 [BigVoca_Custom_Quick]: BigVoca_Custom_Quick.gif
 [BigVoca_Custom_Scope]: BigVoca_Custom_Scope.gif
 [BigVoca_Custom_Export]: BigVoca_Custom_Export.gif
