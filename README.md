@@ -9,7 +9,7 @@ For more information on the blog
 
 ## Example Application
 ### Basic Quiz
-![Basic](https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Basic.gif | width=100)
+![Basic](BigVoca_Basic.gif=100X20)
 
 --------
 ### Subjective Quiz
@@ -33,7 +33,7 @@ For more information on the blog
 ![BigVoca_Custom_Export]
 
 [BigVoca_Basic]: BigVoca_Basic.gif
-[BigVoca_Sub]: BigVoca_Sub.gif
+[BigVoca_Sub]: BigVoca_Sub.gif=100X20
 [BigVoca_Weak]: BigVoca_Weak.gif
 [BigVoca_Custom_Quick]: BigVoca_Custom_Quick.gif
 [BigVoca_Custom_Scope]: BigVoca_Custom_Scope.gif
