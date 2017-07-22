@@ -9,7 +9,7 @@ For more information on the blog
 
 ## Example Application
 ### Basic Quiz
-![BigVoca_Basic]
+![BigVoca_Basic](width=100)
 
 --------
 ### Subjective Quiz
