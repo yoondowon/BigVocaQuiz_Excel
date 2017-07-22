@@ -9,7 +9,7 @@ For more information on the blog
 
 ## Example Application
 ### Basic Quiz
-<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Basic.gif" height="500">
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Basic.gif" height="400">
 
 --------
 ### Subjective Quiz
@@ -22,16 +22,12 @@ For more information on the blog
 --------
 ### Custom Ribbon Menu
 #### Quick Start
-<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Quick.gif" height="500">
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Quick.gif" height="600">
 
 --------
 #### Quiz Scope Setting
-<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Scope.gif" height="500">
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Scope.gif" height="600">
 
 --------
 #### Word List Export/Delete
-<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Export.gif" height="500">
-
-[BigVoca_Custom_Quick]: BigVoca_Custom_Quick.gif
-[BigVoca_Custom_Scope]: BigVoca_Custom_Scope.gif
-[BigVoca_Custom_Export]: BigVoca_Custom_Export.gif
+<img src="https://github.com/yoondowon/BigVocaQuiz_Excel/blob/master/BigVoca_Custom_Export.gif" height="600">
