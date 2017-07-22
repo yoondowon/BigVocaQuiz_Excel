@@ -18,9 +18,18 @@ For more information on the blog
 ![BigVoca_Weak]
 
 ### Custom Ribbon Menu
-![BigVoca_Custom]
+#### Quick Start
+![BigVoca_Custom_Quick]
+
+#### Quiz Scope Setting
+![BigVoca_Custom_Scope]
+
+#### Word List Export/Delete
+![BigVoca_Custom_Export]
 
 [BigVoca_Basic]: BigVoca_Basic.gif
 [BigVoca_Sub]: BigVoca_Sub.gif
 [BigVoca_Weak]: BigVoca_Weak.gif
-[BigVoca_Custom]: BigVoca_Custom.gif
+[BigVoca_Custom_Quick]: BigVoca_Custom_Quick.gif
+[BigVoca_Custom_Scope]: BigVoca_Custom_Scope.gif
+[BigVoca_Custom_Export]: BigVoca_Custom_Export.gif
