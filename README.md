@@ -7,7 +7,7 @@ For more information on the blog
  - Weak Point Quiz: http://nife0719.blog.me/221049879862 
  - Custom Ribbon Menu: http://nife0719.blog.me/221049879862 
 
-## Contents
+## Example Application
 ### Basic Quiz
 ![BigVoca_Basic]
 
