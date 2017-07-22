@@ -11,6 +11,7 @@ For more information on the blog
 ### Basic Quiz
 ![BigVoca_Basic]
 
+--------
 ### Subjective Quiz
 ![BigVoca_Sub]
 
